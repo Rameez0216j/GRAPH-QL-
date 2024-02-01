@@ -1,1 +1,1 @@
-# GRAPH-QL-
+# GRAPH-QL
